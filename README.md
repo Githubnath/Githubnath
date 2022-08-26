@@ -6,7 +6,7 @@
 emenike.nathaniel@gmail.com
 +2347035445571 -WhatsApp 
 https://github.com/Githubnath
-
+emenikenathaniel55@gmail.com
 
 <!---
 Githubnath/Githubnath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
