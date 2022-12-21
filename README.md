@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Githubnath
 - 👀 I’m interested in learning programming
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on Java, HTML,CSS,& Python 
+- 💞️ I’m looking to collaborate on  C, Java, HTML,CSS, Python, JavaScript, JQuery & React JS 
 - 📫 How to reach me; https://www.linkedin.com/mwlite/in/nathaniel-emenike
 emenike.nathaniel@gmail.com
 +2347035445571 -WhatsApp 
