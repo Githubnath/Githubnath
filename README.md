@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Githubnath
 - I’m currently a student of  Software Engineering at ALX Africa.
 - 👀 I’m a full stack Developer, focusing on [HTML, CSS, JavaScript, React, Express, Python, Django, Node.js, MongoDB, & MySQL]
-- 🌱 I’m currently a student of  Software Engineering at ALX Africa.
 - 📫 How to reach me; https://www.linkedin.com/mwlite/in/nathaniel-emenike
 emenike.nathaniel@gmail.com
 +2347035445571 -WhatsApp 
